@@ -24,7 +24,6 @@ class SinglyLinkedList:
             temp = temp.next
         print("None")
 
-# Example usage
 sll = SinglyLinkedList()
 sll.insert_at_end(10)
 sll.insert_at_end(20)
