@@ -38,7 +38,6 @@ class DoublyLinkedList:
             temp = temp.prev
         print("None")
 
-# Example usage
 dll = DoublyLinkedList()
 dll.insert_at_end(1)
 dll.insert_at_end(2)
