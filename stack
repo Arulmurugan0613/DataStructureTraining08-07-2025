@@ -29,7 +29,6 @@ class Stack:
             temp = temp.next
         print("None")
 
-# Example usage
 stack = Stack()
 stack.push(100)
 stack.push(200)
